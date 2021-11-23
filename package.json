@@ -1,0 +1,28 @@
+{
+	"name": "Vine-Test",
+	"version": "0.0.0",
+	"description": "Vine test animation",
+	"scripts": {
+		"dev": "webpack --config webpack.config.js"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.14.8",
+		"@babel/eslint-parser": "^7.16.3",
+		"@babel/eslint-plugin": "^7.14.5",
+		"@babel/preset-env": "^7.14.8",
+		"acorn": "^8.4.1",
+		"babel-loader": "^8.2.3",
+		"babel-polyfill": "^6.26.0",
+		"browser-sync": "^2.27.4",
+		"browser-sync-webpack-plugin": "^2.2.2",
+		"clean-webpack-plugin": "^4.0.0",
+		"copy-webpack-plugin": "^9.0.1",
+		"html-webpack-plugin": "^5.3.2",
+		"webpack": "^5.63.0",
+		"webpack-cli": "^4.6.0"
+	},
+	"dependencies": {
+		"phaser": "3.55.2"
+	}
+}
