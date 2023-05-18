@@ -12,17 +12,17 @@
 		"@babel/eslint-plugin": "^7.14.5",
 		"@babel/preset-env": "^7.14.8",
 		"acorn": "^8.4.1",
-		"babel-loader": "^8.2.3",
+		"babel-loader": "9.1.2",
 		"babel-polyfill": "^6.26.0",
 		"browser-sync": "^2.27.4",
 		"browser-sync-webpack-plugin": "^2.2.2",
 		"clean-webpack-plugin": "^4.0.0",
-		"copy-webpack-plugin": "^9.0.1",
+		"copy-webpack-plugin": "11.0.0",
 		"html-webpack-plugin": "^5.3.2",
 		"webpack": "^5.63.0",
-		"webpack-cli": "^4.6.0"
+		"webpack-cli": "5.1.1"
 	},
 	"dependencies": {
-		"phaser": "3.55.2"
+		"phaser": "3.60.0"
 	}
 }
